@@ -1,0 +1,7 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+download.bt.cn	0	0	1783093183	31536000
+www.bt.cn	0	1	1783001112	31536000
+dg2.bt.cn	0	0	1783131963	31536000
+ctcc1-node.bt.cn	0	0	1783002172	31536000

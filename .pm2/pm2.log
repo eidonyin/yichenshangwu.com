@@ -1,0 +1,12 @@
+2026-07-06T10:15:34: PM2 log: App [eichen-site:0] starting in -fork mode-
+2026-07-06T10:15:34: PM2 log: App [eichen-site:0] online
+2026-07-06T10:16:54: PM2 log: Stopping app:eichen-site id:0
+2026-07-06T10:16:55: PM2 log: App [eichen-site:0] exited with code [0] via signal [SIGINT]
+2026-07-06T10:16:55: PM2 log: pid=67223 msg=process tree killed (1 pids)
+2026-07-06T10:16:55: PM2 log: App [eichen-site:0] starting in -fork mode-
+2026-07-06T10:16:55: PM2 log: App [eichen-site:0] online
+2026-07-07T10:52:51: PM2 log: Stopping app:eichen-site id:0
+2026-07-07T10:52:51: PM2 log: App [eichen-site:0] exited with code [0] via signal [SIGINT]
+2026-07-07T10:52:51: PM2 log: pid=67269 msg=process tree killed (1 pids)
+2026-07-07T10:52:51: PM2 log: App [eichen-site:0] starting in -fork mode-
+2026-07-07T10:52:51: PM2 log: App [eichen-site:0] online
